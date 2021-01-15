@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Helvetica Now Display';
+    src: url('../assets/fonts/HelveticaNowDisplay-Regular.eot');
+    src: url('../assets/fonts/HelveticaNowDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/HelveticaNowDisplay-Regular.woff2') format('woff2'),
+        url('../assets/fonts/HelveticaNowDisplay-Regular.woff') format('woff'),
+        url('../assets/fonts/HelveticaNowDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Now Display';
+    src: url('HelveticaNowDisplay-Bold.eot');
+    src: url('HelveticaNowDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaNowDisplay-Bold.woff2') format('woff2'),
+        url('HelveticaNowDisplay-Bold.woff') format('woff'),
+        url('HelveticaNowDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Now Display';
+    src: url('HelveticaNowDisplay-Medium.eot');
+    src: url('HelveticaNowDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaNowDisplay-Medium.woff2') format('woff2'),
+        url('HelveticaNowDisplay-Medium.woff') format('woff'),
+        url('HelveticaNowDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Now Display';
+    src: url('HelveticaNowDisplay-ExtraBold.eot');
+    src: url('HelveticaNowDisplay-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaNowDisplay-ExtraBold.woff2') format('woff2'),
+        url('HelveticaNowDisplay-ExtraBold.woff') format('woff'),
+        url('HelveticaNowDisplay-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
