@@ -4,4 +4,4 @@
 
 Simple Portfolio Layout in HTML5 & CSS3
 
-![Screenshot](img/Screenshot.png) 
+![Screenshot](assets/img/Screenshot.png) 
